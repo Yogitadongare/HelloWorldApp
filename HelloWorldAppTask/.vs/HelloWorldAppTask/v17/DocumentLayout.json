@@ -1,0 +1,63 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Yogita\\OneDrive\\Desktop\\HelloApp\\HelloWorldApp\\HelloWorldAppTask\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EB96CB8A-9029-453D-AD6D-8A0ED4ABAA4C}|HelloWorldAppTask\\HelloWorldAppTask.csproj|c:\\users\\yogita\\onedrive\\desktop\\helloapp\\helloworldapp\\helloworldapptask\\helloworldapptask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB96CB8A-9029-453D-AD6D-8A0ED4ABAA4C}|HelloWorldAppTask\\HelloWorldAppTask.csproj|solutionrelative:helloworldapptask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Yogita\\OneDrive\\Desktop\\HelloApp\\HelloWorldApp\\HelloWorldAppTask\\HelloWorldAppTask\\Program.cs",
+              "RelativeDocumentMoniker": "HelloWorldAppTask\\Program.cs",
+              "ToolTip": "C:\\Users\\Yogita\\OneDrive\\Desktop\\HelloApp\\HelloWorldApp\\HelloWorldAppTask\\HelloWorldAppTask\\Program.cs",
+              "RelativeToolTip": "HelloWorldAppTask\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T03:40:13.91Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
